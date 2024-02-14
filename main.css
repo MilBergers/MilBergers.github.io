@@ -1,14 +1,14 @@
 body {
     font-family: 'Arial', sans-serif;
-    background-color: hsl(0, 0%, 94%); /* Lichtgrijs */
+    background-color: hsl(341, 100%, 87%); /* Lichtgrijs */
     color: hsl(0, 0%, 20%); /* Bijna zwart */
     line-height: 1.6;
     margin: 0;
     padding: 0;
+    margin-left:2rem;
 }
 
 h1{
-    margin-left:2rem;
     color: hsl(248, 100%, 50%);
 }
 
