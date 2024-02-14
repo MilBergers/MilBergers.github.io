@@ -1,0 +1,27 @@
+{
+    "projecten": [
+      {
+        "titel": "Interactieve Data Visualisatie App",
+        "korteOmschrijving": "Een webapplicatie ontworpen om complexe datasets visueel weer te geven en interactie mogelijk te maken voor diepgaande analyse.",
+        "technologieen": [
+          "D3.js",
+          "React",
+          "Redux",
+          "Node.js"
+        ],
+        "afbeelding": ""
+      },
+      {
+        "titel": "Mobiele Fitness Applicatie",
+        "korteOmschrijving": "Een mobiele applicatie die gebruikers helpt bij het bijhouden van hun dagelijkse fitnessactiviteiten, voeding, en voortgang.",
+        "technologieen": [
+          "Flutter",
+          "Dart",
+          "Firebase",
+          "REST API"
+        ],
+        "afbeelding": ""
+      }
+    ]
+  }
+  
