@@ -9,7 +9,7 @@
           "Redux",
           "Node.js"
         ],
-        "afbeelding": "images/WebApp.jpg"
+        "afbeelding": "/images/WebApp.jpg"
       },
       {
         "titel": "Mobiele Fitness Applicatie",
@@ -20,7 +20,7 @@
           "Firebase",
           "REST API"
         ],
-        "afbeelding": "images/webApp.jpg"
+        "afbeelding": "/images/webApp.jpg"
       }
     ]
   }
