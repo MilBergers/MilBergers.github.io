@@ -1,0 +1,48 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: hsl(0, 0%, 94%); /* Lichtgrijs */
+    color: hsl(0, 0%, 20%); /* Bijna zwart */
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    margin-left:2rem;
+    color: hsl(248, 100%, 50%);
+}
+
+#projectenLijst {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+    justify-content: center;
+}
+
+#projectenLijst div {
+    background-color: hsl(0, 0%, 100%); /* Wit */
+    box-shadow: 0 0 10px hsla(0, 0%, 0%, 0.1); /* Lichtzwarte schaduw */
+    margin: 10px;
+    padding: 20px;
+    width: calc(50% - 40px);
+    box-sizing: border-box;
+}
+
+#projectenLijst h2 {
+    color: hsl(248, 100%, 50%); /* Fel blauw */
+}
+
+#projectenLijst p {
+    margin: 10px 0;
+}
+
+#projectenLijst img {
+    height: auto;
+    max-width: 10%;
+}
+
+@media (max-width: 600px) {
+    #projectenLijst div {
+        width: calc(100% - 40px);
+    }
+}
