@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     <h2>${project.titel}</h2>
                     <p>${project.korteOmschrijving}</p>
                     <p>Technologieën: ${project.technologieen.join(', ')}</p>
-                    <img src="${project.afbeelding}" alt="${project.titel}" style="width: 100%; max-width: 400px;">
+                    <img src="${project.afbeelding}" alt="${project.titel}" style="width: 15rem; max-width: 400px;">
                 `;
                 projectenLijst.appendChild(projectElement);
             });
